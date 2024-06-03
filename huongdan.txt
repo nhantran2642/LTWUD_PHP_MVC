@@ -1,0 +1,4 @@
+tạo db tên ltw_test
+hoặc nếu tạo tên khác thì vào file Database/Database.php sửa tên database tương ứng
+query file sql 
+tự CSS 
